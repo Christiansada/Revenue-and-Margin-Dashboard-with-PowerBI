@@ -35,6 +35,11 @@ The dashboard integrates data from multiple sources:
 - Operating Expenses
 - Operating Income
 
+### Dashboard Screenshots
+
+
+
+
 ### User Interface
 
 - **Light Mode**: Ideal for well-lit environments.
