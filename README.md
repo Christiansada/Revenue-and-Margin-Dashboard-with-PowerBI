@@ -10,7 +10,7 @@ This project is a comprehensive financial dashboard for a company using PowerBI.
 
 
 
-![Image description]([paste-the-link-here](https://github.com/Christiansada/Revenue-and-Margin-Dashboard-with-PowerBI/blob/af4a40d55ecee7d4830655b014e47449f4974aab/5.png))
+![Image description](https://github.com/Christiansada/Revenue-and-Margin-Dashboard-with-PowerBI/blob/af4a40d55ecee7d4830655b014e47449f4974aab/5.png)
 
 
 ## Data Sources
@@ -44,6 +44,15 @@ The dashboard integrates data from multiple sources:
 
 ### Dashboard Screenshots
 ![Image description](https://github.com/Christiansada/Revenue-and-Margin-Dashboard-with-PowerBI/blob/5ceaacab6f00b4e0531e02a77c5eeaa650a876db/1.png)
+![Image description](https://github.com/Christiansada/Revenue-and-Margin-Dashboard-with-PowerBI/blob/0531411208ee6f614fa19956b3ab0ea275eef9a2/2.png)
+![Image description](https://github.com/Christiansada/Revenue-and-Margin-Dashboard-with-PowerBI/blob/0531411208ee6f614fa19956b3ab0ea275eef9a2/3.png)
+![Image description](https://github.com/Christiansada/Revenue-and-Margin-Dashboard-with-PowerBI/blob/0531411208ee6f614fa19956b3ab0ea275eef9a2/4.png)
+![Image description](https://github.com/Christiansada/Revenue-and-Margin-Dashboard-with-PowerBI/blob/0531411208ee6f614fa19956b3ab0ea275eef9a2/5.png)
+![Image description](https://github.com/Christiansada/Revenue-and-Margin-Dashboard-with-PowerBI/blob/0531411208ee6f614fa19956b3ab0ea275eef9a2/6.png)
+![Image description](https://github.com/Christiansada/Revenue-and-Margin-Dashboard-with-PowerBI/blob/0531411208ee6f614fa19956b3ab0ea275eef9a2/7.png)
+![Image description](https://github.com/Christiansada/Revenue-and-Margin-Dashboard-with-PowerBI/blob/0531411208ee6f614fa19956b3ab0ea275eef9a2/8.png)
+![Image description](https://github.com/Christiansada/Revenue-and-Margin-Dashboard-with-PowerBI/blob/0531411208ee6f614fa19956b3ab0ea275eef9a2/9.png)
+
 
 
 
@@ -88,5 +97,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 For more information or support, contact christiansada787@gmail.com or Whatsapp
 : 08080100739.
+
+PowerBI Link: https://app.powerbi.com/links/ZFRkmsXFxk?ctid=dc246aad-058e-4355-902f-294fc6ae7d86&pbi_source=linkShare&bookmarkGuid=101bcb8f-e48a-4313-a7af-13aaa3f87a02 
 
 ---
