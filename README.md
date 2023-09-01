@@ -55,6 +55,41 @@ The dashboard includes a 'Financial Simulator' that allows users to conduct what
 
 The current dashboard is based on historical data for the year 2019. For real-time tracking, the data sources need to be updated and connected in real-time.
 
+## Dashboard Screenshots
+
+### Light Mode
+
+#### Gross Margin by Sales Team
+![Gross Margin by Sales Team Light Mode](url-to-image-1)
+
+#### Supplier Revenue Gross Margin
+![Supplier Revenue Gross Margin Light Mode](url-to-image-2)
+
+#### Revenue & Margin Analysis
+![Revenue & Margin Analysis Light Mode](url-to-image-3)
+
+#### Revenue by Category
+![Revenue by Category Light Mode](url-to-image-4)
+
+### Dark Mode
+
+#### Gross Margin by Sales Team
+![Gross Margin by Sales Team Dark Mode](url-to-image-5)
+
+#### Supplier Revenue Gross Margin
+![Supplier Revenue Gross Margin Dark Mode](url-to-image-6)
+
+#### Revenue & Margin Analysis
+![Revenue & Margin Analysis Dark Mode](url-to-image-7)
+
+#### Revenue by Category
+![Revenue by Category Dark Mode](url-to-image-8)
+
+### What-If Analysis
+
+![What-If Analysis](url-to-image-9)
+
+
 ## Prerequisites
 
 - PowerBI Desktop
