@@ -7,6 +7,8 @@
 This project is a comprehensive financial dashboard for a company using PowerBI. The dashboard captures key financial metrics, including Revenue, Gross Margin, and Operating Expenses, and provides insights into different aspects of the company's operations. It is designed to support decision-making at both strategic and operational levels. Additionally, the dashboard supports both **Light and Dark modes** for an enhanced user experience.
 
 ![Image description](https://github.com/Christiansada/Revenue-and-Margin-Dashboard-with-PowerBI/blob/5ceaacab6f00b4e0531e02a77c5eeaa650a876db/1.png)
+![Image description]([paste-the-link-here](https://github.com/Christiansada/Revenue-and-Margin-Dashboard-with-PowerBI/blob/af4a40d55ecee7d4830655b014e47449f4974aab/5.png))
+
 
 ## Data Sources
 
