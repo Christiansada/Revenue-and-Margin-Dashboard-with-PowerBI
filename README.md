@@ -70,6 +70,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ---
 
-For more information or support, contact [your email].
+For more information or support, contact christiansada787@gmail.com or whatsapp: 08080100739.
 
 ---
